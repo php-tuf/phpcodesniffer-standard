@@ -1,0 +1,33 @@
+{
+    "name": "php-tuf/phpcodesniffer-standard",
+    "type": "phpcodesniffer-standard",
+    "description": "PHP_CodeSniffer rules (sniffs) for PHP-TUF coding standards",
+    "keywords": [
+        "phpcodesniffer-standard",
+        "phpcs",
+        "standards"
+    ],
+    "homepage": "https://github.com/php-tuf/phpcodesniffer-standard",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Travis Carden",
+            "email": "travis.carden@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {},
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-develop": "0.x-dev"
+        }
+    },
+    "minimum-stability": "stable",
+    "support": {
+        "issues": "https://github.com/php-tuf/phpcodesniffer-standard/issues",
+        "source": "https://github.com/php-tuf/phpcodesniffer-standard"
+    }
+}
