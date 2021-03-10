@@ -30,6 +30,11 @@
             "dev-develop": "0.x-dev"
         }
     },
+    "autoload": {
+        "psr-4": {
+            "PhpTuf\\CodingStandards\\": "src/"
+        }
+    },
     "minimum-stability": "stable",
     "support": {
         "issues": "https://github.com/php-tuf/phpcodesniffer-standard/issues",
