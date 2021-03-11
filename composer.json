@@ -1,7 +1,7 @@
 {
     "name": "php-tuf/phpcodesniffer-standard",
     "type": "phpcodesniffer-standard",
-    "description": "PHP_CodeSniffer rules (sniffs) for PHP-TUF coding standards",
+    "description": "PHP_CodeSniffer rules (sniffs) for the PHP-TUF coding standard",
     "keywords": [
         "phpcodesniffer-standard",
         "phpcs",
