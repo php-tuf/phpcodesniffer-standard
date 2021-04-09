@@ -43,4 +43,7 @@
         <exclude name="Squiz.Arrays.ArrayDeclaration.FirstValueNoNewline"/>
     </rule>
 
+    <!-- Find unused code -->
+    <rule ref="SlevomatCodingStandard.Namespaces.UnusedUses"/>
+
 </ruleset>
